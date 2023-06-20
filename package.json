@@ -3,7 +3,7 @@
   "repository": "https://github.com/koifiChris/vercel_node.git",
   "license": "MIT",
   "private": true,
-  "packageManager": "pnpm",
+  "packageManager": "npm@6.14.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
